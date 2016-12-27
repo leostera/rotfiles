@@ -1,0 +1,6 @@
+[package]
+name = "rotfiles"
+version = "0.1.0"
+authors = ["Leandro Ostera <leandro@ostera.io>"]
+
+[dependencies]
